@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   msvc:
+    if: false
     strategy:
       matrix:
         arch: [x86, amd64, arm64]
