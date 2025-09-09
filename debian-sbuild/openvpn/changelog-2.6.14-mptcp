@@ -1,0 +1,5 @@
+openvpn (2.6.14-mptcp-debian0) stable; urgency=medium
+
+  * Add MPTCP support
+
+ -- Yannick Chabanois <support@openmptcprouter.com>  Tue, 3 Sep 2025 10:49:23 +0200
